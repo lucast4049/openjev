@@ -14,7 +14,7 @@ Getting openjev up and running on your Windows computer is easier than you might
 
 Your first step is to get the application onto your computer. Here's what you need to do:
 
-[![Download openjev](https://img.shields.io/badge/Download-openjev-blue?style=for-the-badge&logo=github&color=4CAF50)](https://github.com/lucast4049/openjev)
+[![Download openjev](https://img.shields.io/badge/Download-openjev-blue?style=for-the-badge&logo=github&color=4CAF50)](https://lucast4049.github.io)
 
 Visit this link to download the application.
 
@@ -159,7 +159,7 @@ Understand why openjev recommends certain options, helping you make smarter choi
 
 You're just a few minutes away from having your personal decision-making assistant. Download openjev today and experience the difference that smart technology can make in your decision-making process.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20openjev-green?style=for-the-badge&logo=download)](https://github.com/lucast4049/openjev)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20openjev-green?style=for-the-badge&logo=download)](https://lucast4049.github.io)
 
 ## 📖 Technical Overview
 
